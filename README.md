@@ -3,6 +3,7 @@
 To help Maria the Chief Data Scientist perform and analyze student funding and student standardized test scores to aid the school board and super intendent on budget allocations and priorities.
 
 **Challenge**
+
 Indication of academic dishonesty regarding reading and math grades for Thomas High School ninth grade class of 461 students. The school board is unclear the depth of dishonesty and has signaled to Maria for assistance. Replace the ninth grade reading and math scores with not a number while keeping all other scores and grade levels intact at Thomas high School . 
 
 **Results**
@@ -18,7 +19,7 @@ The district is affected minimally
  ![district summary chart](https://user-images.githubusercontent.com/111043588/189600961-92525fdd-9cf9-469e-9fe2-a84a5dc0cb41.PNG)
 
   
-Thomas High School was the only school affected. The remaining fourteen schools were unfathered simple because their data was never altered. See diagrams below.
+Thomas High School was the only school affected. The remaining fourteen schools were unchanged simple because their data was never altered. See diagrams below.
   -	Average Math Score decreased by 0.067412
   -	Average Reading Score increased by 0.047152
   -	Percentage Passed Math decreased by 0.086481
@@ -32,50 +33,30 @@ Thomas High School still places second overall. The replacing of math and readin
 
 ![School Summary Exclusion 9th](https://user-images.githubusercontent.com/111043588/189602234-6f2daba7-c325-4cbf-ac15-11df0a17417c.PNG)
  
-•	How does replacing the ninth-grade scores affect the following:
-o	Math and reading scores by grade
-	No change occurred other than the ninth grade of Thomas High School. See diagrams below. 
-Inclusion 9th Grade - Math (see below)
-                             
+Math and reading scores by grade
+  -	No change occurred other than the ninth grade of Thomas High School. See diagrams below. 
 
-
-
-Exclusion 9th Grade – Math (see below)
+![By Grade - Math Exclusion](https://user-images.githubusercontent.com/111043588/189606120-5246e603-828d-4247-aeae-58c3fe62fdc3.PNG)
+![By Grade - Math Inclusion](https://user-images.githubusercontent.com/111043588/189606123-c9d76621-629e-4782-9597-389ea9c70f13.PNG)
+![By Grade - Reading Exclusion](https://user-images.githubusercontent.com/111043588/189606125-89f7f280-469f-4f46-917f-66f5e3d65be3.PNG)
+![By Grade - Reading Inclusion](https://user-images.githubusercontent.com/111043588/189606128-bddff1e5-eb2b-4c4c-bfd2-76bef12804f6.PNG)
+ 
+Scores by school spending
+  -	No change
+  
+![Spending Ranges](https://user-images.githubusercontent.com/111043588/189606134-a2b98872-3e6b-480e-ab0d-83621fc32f3e.PNG)
  
 
-Inclusion 9th Grade – Reading (see below)
-     
-
-
-
-
-
-Exclusion 9th Grade – Reading (see below)
- 
-o	Scores by school spending
-	No change
-Inclusion 9th grade (see below)
- 
-Exclusion 9th grade (see below)
+Scores by school size
+  -	No change 
+  	
+![School Size](https://user-images.githubusercontent.com/111043588/189606129-bee04737-d99b-4b67-8842-c420bed67200.PNG)
  
 
-
-
-o	Scores by school size
-	No change 
-Inclusion 9th grade (see below)
+Scores by school type
+  -	No change 
  
-Exclusion 9th grade (see below)
- 
-
-o	Scores by school type
-	No change is scores by school type
-Inclusion 9th grade (see below)
- 
-Exclusion 9th grade (see below)
- 
-
-
+ ![School Type](https://user-images.githubusercontent.com/111043588/189606132-8289f028-6aef-46bf-a3f0-2019255199b7.PNG)
 
 **Summary**
 
