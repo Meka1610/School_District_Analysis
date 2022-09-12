@@ -1,12 +1,11 @@
 # School_District_Analysis
 
-School District Analysis
 To help Maria the Chief Data Scientist perform and analyze student funding and student standardized test scores to aid the school board and super intendent on budget allocations and priorities.
 
-Challenge
+**Challenge**
 Indication of academic dishonesty regarding reading and math grades for Thomas High School ninth grade class of 461 students. The school board is unclear the depth of dishonesty and has signaled to Maria for assistance. Replace the ninth grade reading and math scores with not a number while keeping all other scores and grade levels intact at Thomas high School . 
 
-Results
+**Results**
 •	How is the district summary affected?
 o	The district is affected minimally 
 	Math score decreased by 0.1
@@ -84,7 +83,7 @@ Exclusion 9th grade (see below)
 
 
 
-•	Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+**Summary**
 Four changes have been indicated within the results section above. Notably the removal of ninth grade math and reading scores for Thomas High School remained in second place overall. The removal of an entire grade virtually had no affect on their overall placement within the district. The numbers indicate that Charter school outperformed District school at every level. The School Board and Super Intendent should look more closely into why this occurrence is happening. Its unusually, I would have assumed that charter schools across the board would have a larger budget per student, but the latter is actually true.  
 	Average Math Score decreased by 0.067412 , because ninth grade students of Thomas High School had the highest average math score. 
 	Average Reading Score increased by 0.047152. The ninth grade class of Thomas High School were bringing the average reading down. The removal of them helped increase the score.
